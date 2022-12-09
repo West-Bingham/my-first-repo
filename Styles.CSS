@@ -5,3 +5,12 @@ h1 {
     color: red;
     border-color: blue;
 }
+
+p {
+    text-align: center; 
+    color: goldenrod;
+    text-decoration: overline;
+    text-decoration-color: brown;
+    font-size: 100px;
+
+}
